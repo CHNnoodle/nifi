@@ -83,4 +83,5 @@
 .icon-connect:before { content: '\e834'; } /* '' */
 .icon-connect-add:before { content: '\e835'; } /* '' */
 .icon-threads:before { content: '\e83f'; } /* '' */
-.icon-drop:before { content: '\e888'; } /* '' */
+.icon-drop:before { content: ''; } /* '' */
+/*.icon-drop:before { content: '\e888'; } !* '' *!*/
